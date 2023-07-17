@@ -1,0 +1,5 @@
+set env(QWIKFOLDDIR) "/home/dgomes/github/QwikFold2/qwikfold/"
+lappend auto_path $env(QWIKFOLDDIR)
+vmd_install_extension alphafold "alphafold" "Protein Folding/AlphaFold2"
+vmd_install_extension omegafold "omegafold" "Protein Folding/OmegaFold"
+

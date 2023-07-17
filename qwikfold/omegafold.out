@@ -1,0 +1,9 @@
+INFO:root:Loading weights from /home/dgomes/.cache/omegafold_ckpt/model.pt
+INFO:root:Constructing OmegaFold
+INFO:root:Reading /home/dgomes/github/QwikFold2/qwikfold/test.fasta
+INFO:root:Predicting 1th chain in /home/dgomes/github/QwikFold2/qwikfold/test.fasta
+INFO:root:10 residues in this chain.
+INFO:root:Finished prediction in 3.49 seconds.
+INFO:root:Saving prediction to test/test.pdb
+INFO:root:Saved
+INFO:root:Done!
